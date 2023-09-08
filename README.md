@@ -1,4 +1,4 @@
-# MJML Email Framework Boilerplate
+# MJML Email Framework Boilerplate and one project
 
 [![CI/CD](https://github.com/dominicarrojado/mjml-email-framework-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/dominicarrojado/mjml-email-framework-boilerplate/actions/workflows/ci.yml)
 
@@ -41,5 +41,4 @@ yarn build
 
 ## Learn
 
-Learn how to build this setup or
-boilerplate [here](https://dominicarrojado.com/posts/how-to-setup-local-development-for-mjml-framework/).
+

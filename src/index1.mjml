@@ -1,0 +1,51 @@
+<mjml html lang="en">
+  <mj-head>
+    <mj-preview>Experience Tokyo’s Nightlife</mj-preview>
+    <mj-title>You could win a trip to Tokyo!!!</mj-title>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500"></mj-font>
+    
+    <mj-attributes>
+      <mj-all font-family="Montserrat, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="300" align="center" color="#212121" font-size="14px" line-height="20px" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="608px">
+    <mj-section>
+      <mj-column>
+        <mj-text font-weight="500">NOMAD TRAVEL TIPS</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80">
+      <mj-column>
+        <mj-text color="#fff" font-size="48px" line-height="48px">Experience Tokyo’s Nightlife</mj-text>
+        <mj-button border-radius="8px" background-color="#212121" href="#"> FIND OUT IF YOU COULD WIN! </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="22px">You could win a trip to Tokyo!</mj-text>
+        <mj-text> The Nomad Travel Tips team have been humbled by the number of members who have pledged and choose to support our website. As a big thank you, we are giving away a trip to Tokyo in Japan to one lucky patron!<br></br> If you’re a patron, you don’t have to do anything as it could be you jetting off to Tokyo! If you’re not a patron, you can become one today and still qualify! Plus, we’ll be having more giveaways for our patrons over the next few months! </mj-text>
+        <mj-button border-radius="8px" background-color="#d50000" href="#"> BECOME A PATRON TODAY </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f6f6f6" border-radius="8px">
+      <mj-column>
+        <mj-image border-radius="8px" width="200px" alt="Tokio Skyline" src="https://images.unsplash.com/photo-1551322120-c697cf88fbdc?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="20px"> Tokyo Travel Tips </mj-text>
+        <mj-text> Travelling to Tokyo soon? We’ve got you covered with the most popular tips shared by the NTT community </mj-text>
+        <mj-text>
+          <a href="#" style="color:#212121">Read our Tokyo travel guide</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="10px" line-height="14px"> Nomad Travel Tips<br> 86 South Street, West London, W16 7KA <br><br> You’re receiving this email because you subscribed to the NTT monthly newsletter. If you’d prefer not to receive updates, you can <a href="#" style="color:#212121">unsubscribe.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
