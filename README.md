@@ -10,7 +10,7 @@ A local development setup or boilerplate for [MJML email framework](https://mjml
 2. Clone the template:
 
 ```bash
-git clone git@github.com:dominicarrojado/mjml-email-framework-boilerplate.git
+git clone git@github.com:notRuslan/mjml-email-framework-boilerplate.git
 ```
 
 3. Install dependencies.
@@ -41,4 +41,5 @@ yarn build
 
 ## Learn
 
-Learn how to build this setup or boilerplate [here](https://dominicarrojado.com/posts/how-to-setup-local-development-for-mjml-framework/).
+Learn how to build this setup or
+boilerplate [here](https://dominicarrojado.com/posts/how-to-setup-local-development-for-mjml-framework/).
